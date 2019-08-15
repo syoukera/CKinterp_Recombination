@@ -1,4 +1,4 @@
-# CKinterp_KUCRS_iC7
+# CKinterp_Recombination
 ### 必要ファイル
 |ファイル名|内容|
 |:---|:---|
