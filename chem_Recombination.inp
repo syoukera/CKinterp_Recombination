@@ -1,0 +1,11 @@
+elements
+ E Ar
+end
+
+species
+ e Ar Ar^+
+end
+
+reactions      cal/mole  moles
+ e + Ar^+ + Ar => Ar + Ar 1.0d+5 0 0
+end
